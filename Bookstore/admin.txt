@@ -1,0 +1,4 @@
+Email: admin@example.com
+Password: admin123
+for Password hash:$2y$10$SooIEZNqoocHDF81kmjIzueq53gu0tOCjx59Pux9KeKartrcSmc7e
+this hash inculde in users table edit admin row edit
