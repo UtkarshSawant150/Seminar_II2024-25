@@ -1,2 +1,4 @@
 # Seminar_II2024-25
-project and Practicals
+## Utkarsh Sawant
+### SY-A:150
+Project ,Report and Practicals
